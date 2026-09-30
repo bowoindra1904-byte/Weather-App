@@ -1,0 +1,7 @@
+{
+  "name": "Atmosfera Bangka Barat 3D - Pemantau Cuaca & Peringatan Dini Ekstrem",
+  "description": "Sistem pemantau cuaca online real-time 3D presisi tinggi khusus Kabupaten Bangka Barat, dilengkapi kustomisasi visual (Kartun, Realistis, Futuristik) dan peringatan dini cuaca ekstrem.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
